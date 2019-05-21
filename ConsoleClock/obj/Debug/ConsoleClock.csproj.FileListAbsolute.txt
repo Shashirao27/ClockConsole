@@ -1,0 +1,6 @@
+D:\Projects\ConsoleClock\ConsoleClock\ConsoleClock\bin\Debug\ConsoleClock.exe.config
+D:\Projects\ConsoleClock\ConsoleClock\ConsoleClock\bin\Debug\ConsoleClock.exe
+D:\Projects\ConsoleClock\ConsoleClock\ConsoleClock\bin\Debug\ConsoleClock.pdb
+D:\Projects\ConsoleClock\ConsoleClock\ConsoleClock\obj\Debug\ConsoleClock.csprojResolveAssemblyReference.cache
+D:\Projects\ConsoleClock\ConsoleClock\ConsoleClock\obj\Debug\ConsoleClock.exe
+D:\Projects\ConsoleClock\ConsoleClock\ConsoleClock\obj\Debug\ConsoleClock.pdb
